@@ -15,4 +15,4 @@ For this small project I use [python3](https://www.python.org/downloads/) code.
 * haarcascade_frontalface_default.xml
 
 # Acknowledgement
-
+* [Mr. Murtaza](https://www.murtazahassan.com/courselist/), who provides many courses.
