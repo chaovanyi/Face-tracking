@@ -4,7 +4,7 @@ This is a small project that I found from [here](https://www.murtazahassan.com/c
 
 # Requirement
 
-For this small project I use [python3](https://www.python.org/downloads/)code.
+For this small project I use [*python3](https://www.python.org/downloads/) code.
 
 ### IDE
 * [Pycharm](https://www.jetbrains.com/pycharm/)
