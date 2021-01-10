@@ -1,1 +1,2 @@
-# Dual-axis-camera-tracker
+# Requirement
+*python3
