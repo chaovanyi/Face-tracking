@@ -11,3 +11,5 @@ For this small project I use [python3](https://www.python.org/downloads/) code.
 ### Support packages
 * opencv-python
 * numpy
+### Classifier
+* haarcascade_frontalface_default.xml
